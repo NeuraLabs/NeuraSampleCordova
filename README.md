@@ -2,7 +2,7 @@
 
 ## Usage
 
-git clone https://github.com/jeweller1980stepanets/NeuraSampleApp
+git clone https://github.com/NeuraLabs/NeuraSampleCordova
 
 cd NeuraSampleApp/
 
